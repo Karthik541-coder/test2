@@ -87,16 +87,12 @@ Contributions are welcome! Please fork the repo and submit pull requests for bug
 
 ---
 
-## 📄 License
-*(Specify your license here)*
-
----
 
 ## 📞 Contact
 For questions, collaboration, or support:  
-**Your Name/Team Name**  
-Email: your.email@example.com  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+**Mulinti Rohith Naidu**
+Email: mulintirohan159@gmail.com 
+
 
 ---
 
