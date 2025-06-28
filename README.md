@@ -10,8 +10,7 @@ Local governments manage public funds but often lack transparency and citizen in
 ---
 
 ## 💡 Solution
-CivicChain empowers citizens by distributing voting tokens (Algorand Standard Assets - ASAs) based on residency or tax contribution. Citizens vote on municipal budget proposals through a DAO built on the Algorand blockchain. Funds are automatically disbursed via smart contracts only if proposals meet the required quorum.
-
+CivicChain empowers citizens to actively participate in local budget decisions by distributing voting tokens (Algorand Standard Assets - ASAs) based on their residency or tax contributions. Using a decentralized autonomous organization (DAO) on the Algorand blockchain, citizens can securely vote on municipal budget proposals. Smart contracts automatically release funds only when proposals achieve the required quorum, ensuring transparent, accountable, and democratic management of public resources.
 ---
 
 ## 🤝 User Value
