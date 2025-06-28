@@ -77,16 +77,16 @@ This project leverages AlgoKit to simplify Algorand smart contract development, 
 
 ### Steps
 
-# 1. Install AlgoKit
+###  1. Install AlgoKit
 
-# 2. Clone the repo
+###  2. Clone the repo
 `git clone https://github.com/your-org/civicchain.git`
 `cd civicchain`
 
-# 3. Install dependencies
+###  3. Install dependencies
 npm install                          # For frontend 
 
-# 4. Start localnet and deploy
+###  4. Start localnet and deploy
 `algokit localnet start`
 `algokit deploy`
 
