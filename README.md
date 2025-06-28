@@ -4,13 +4,8 @@
 ---
 
 ## 🎯 Problem Statement
-Local governments are responsible for managing and allocating public funds collected from taxpayers. However, in many cases, the processes behind budgeting and spending lack sufficient transparency and do not actively involve citizens in decision-making. This limited visibility into how funds are utilized creates a trust deficit between the government and the public.
+Local governments manage public funds but often lack transparency and citizen involvement in budgeting and spending decisions. This limited openness causes mistrust, inefficient resource allocation, and increased risk of misuse. The absence of participatory and accountable budget processes weakens public confidence and government accountability. CivicChain addresses these challenges by enabling transparent, on-chain citizen participation using blockchain technology.
 
-Without meaningful citizen participation, budget priorities may not accurately reflect the community’s needs, leading to inefficient or misdirected spending. Furthermore, the absence of transparent mechanisms to track and verify fund disbursement increases the risk of misuse or corruption.
-
-Overall, the lack of open, accountable, and participatory budget management diminishes public confidence, reduces government accountability, and weakens the democratic process at the local level.
-
-CivicChain aims to address these issues by enabling direct citizen engagement and transparent governance through blockchain technology.
 
 ---
 
