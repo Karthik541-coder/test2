@@ -1,4 +1,4 @@
-# ![CivicChain Logo](path/to/your-logo.png)  
+# ![CivicChain Logo](projects/CivicChain-frontend/public/CivicChain_logo.png)  
 # CivicChain — On-Chain Citizen Budget Participation Platform
 
 ---
