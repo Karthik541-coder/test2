@@ -69,16 +69,26 @@ This project leverages AlgoKit to simplify Algorand smart contract development, 
 
 ---
 
-## 📈 Startup Potential & Impact
-- Addresses a real problem of transparency in government spending
-- Encourages grassroots civic participation and public accountability
-- Scalable from local bodies to large municipalities
-- Potential SaaS model for governments, NGOs, and civic organizations
+## 🚀 Installation & Setup (with AlgoKit)
 
----
+### Prerequisites
+- Python 3.10+, Node.js 16+, Docker
+- [AlgoKit CLI](https://github.com/algorandfoundation/algokit-cli)
 
-## 🚧 Installation & Setup
-*(Add your detailed installation and setup instructions here using AlgoKit, React frontend setup, wallet integration, etc.)*
+### Steps
+
+# 1. Install AlgoKit
+
+# 2. Clone the repo
+`git clone https://github.com/your-org/civicchain.git`
+`cd civicchain`
+
+# 3. Install dependencies
+npm install                          # For frontend 
+
+# 4. Start localnet and deploy
+`algokit localnet start`
+`algokit deploy`
 
 ---
 
