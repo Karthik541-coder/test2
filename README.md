@@ -108,6 +108,7 @@ Contributions are welcome! Please fork the repo and submit pull requests for bug
 ## 📞 Contact
 For questions, collaboration, or support:  
 **Mulinti Rohith Naidu**
+
 Email: mulintirohan159@gmail.com 
 
 
