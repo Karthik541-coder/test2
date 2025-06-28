@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CivicChain_logo.png" alt="CivicChain Logo" width="600" />
+  <img src="Algocc_logo.png" alt="CivicChain Logo" width="600" />
 </p>
 
 # CivicChain — On-Chain Citizen Budget Participation Platform
