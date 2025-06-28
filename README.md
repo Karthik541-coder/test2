@@ -1,4 +1,6 @@
-# ![CivicChain Logo](CivicChain_logo.png)  
+<p align="center">
+  <img src="CivicChain_logo.png" alt="CivicChain Logo" width="200" />
+</p>
 # CivicChain — On-Chain Citizen Budget Participation Platform
 
 ---
